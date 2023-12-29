@@ -70,32 +70,3 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-AnimatedGraph/Library/PackageCache/com.unity.visualscripting@1.9.1/Third Party Notices.md
-*.meta
-*.bin
-*.asset
-*.log
-*.json
-*.pdb
-*.db
-*.st
-*.dll
-*.png
-AnimatedGraph/Library/ShaderCache/EditorEncounteredVariants
-*.md
-*.uss
-*.hlsl
-*.exr
-*.txt
-*.gif
-*.uxml
-*.template
-*.mat
-*.rsp
-*.mvfrm
-*.bhc
-*.gbc
-*.o
-AnimatedGraph/.DS_Store
-AnimatedGraph/Assets
-AnimatedGraph/Library/PackageCache
